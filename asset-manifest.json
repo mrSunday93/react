@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react/static/css/main.5196546e.css",
+    "main.js": "/react/static/js/main.3fcf1042.js",
+    "static/js/453.79f9fc97.chunk.js": "/react/static/js/453.79f9fc97.chunk.js",
+    "static/media/346869-Eivor-Axe-AC-Valhalla-Assassins-Creed-Valhalla-Video-Game-Viking-Warrior.jpg": "/react/static/media/346869-Eivor-Axe-AC-Valhalla-Assassins-Creed-Valhalla-Video-Game-Viking-Warrior.4000ab17846d227152a0.jpg",
+    "static/media/345484-Eivor-Female-Assassins-Creed-Valhalla-AC-Valhalla-Video-Game-Viking-Army.jpg": "/react/static/media/345484-Eivor-Female-Assassins-Creed-Valhalla-AC-Valhalla-Video-Game-Viking-Army.7c172190fe5e64f35c7c.jpg",
+    "static/media/saka.png": "/react/static/media/saka.c1a8cbeec72281621779.png",
+    "static/media/4565922-assassin039s-creed-assassin039s-creed-syndicate-video-games-assassin039s-creed-syndicate.jpg": "/react/static/media/4565922-assassin039s-creed-assassin039s-creed-syndicate-video-games-assassin039s-creed-syndicate.cb92a4f990e3e889c862.jpg",
+    "static/media/header.jpg": "/react/static/media/header.b3250339386aba22d36e.jpg",
+    "static/media/4588616-video-games-playstation-4-xbox-one-playstation-3-xbox-assassin039s-creed.jpg": "/react/static/media/4588616-video-games-playstation-4-xbox-one-playstation-3-xbox-assassin039s-creed.f8fea50722ee4aff6046.jpg",
+    "index.html": "/react/index.html",
+    "main.5196546e.css.map": "/react/static/css/main.5196546e.css.map",
+    "main.3fcf1042.js.map": "/react/static/js/main.3fcf1042.js.map",
+    "453.79f9fc97.chunk.js.map": "/react/static/js/453.79f9fc97.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5196546e.css",
+    "static/js/main.3fcf1042.js"
+  ]
+}
